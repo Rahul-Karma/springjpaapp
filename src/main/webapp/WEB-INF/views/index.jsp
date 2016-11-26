@@ -15,7 +15,7 @@
 				<img src="<c:url value="/static/resources/gfx/dualbrand_logo.png"/>"/>
 			</div>
 			<div id="content">
-				<h1>Welcome to JBoss!</h1>
+				<h1>Welcome to My App Page!</h1>
 
 				<div>
 					<p>You have successfully deployed a Spring MVC web application.</p>
@@ -24,7 +24,7 @@
 				</div>
 
 				<form:form commandName="newMember" id="reg">
-					<h2>Member Registration</h2>
+					<h2>Member Registration Here</h2>
 					<p>Enforces annotation-based constraints defined on the model class.</p>
 					<table>
 						<tbody>
